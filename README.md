@@ -1,6 +1,14 @@
- Hi, I’m Syed Daniyal Hashmi
+ @settings {
+  font-size: 100;
+}Hi, I’m Syed Daniyal Hashmi
  I’m currently studying Software engineering
  I’m interested in exploring new things...
 - 🌱 I’m currently learning Programming language Python and also have knowledge in Web development languages like HTML ,CSS ,JAVASCRIPT.
-- 📫 How to reach me - LinkedIn :Daniyal hashmi
-:smiley: I’m interested in 
+- 📫 How to reach me - LinkedIn :Daniyal hashmi -
+	:muscle: I’m interested in Learning
+-Html
+-CSS
+-JAVASCRIPT
+-PHP
+-BOOTSTRAP
+-Machine Learning
