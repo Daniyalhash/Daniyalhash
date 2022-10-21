@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Daniyal Hashmi</h1>
 <h3 align="center">Currently working on dreams</h3>
-<img align="" alt="coding" width='400' src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA">
+<img align="center" alt="coding" width='400' src="https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyalhash&label=Profile%20views&color=0e75b6&style=flat" alt="daniyalhash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalhash" alt="daniyalhash" /></a> </p>
