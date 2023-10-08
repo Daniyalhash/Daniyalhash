@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/daniyal hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal hashmi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22703940/syed-daniyal-hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syed-daniyal-hashmi" height="30" width="40" /></a>
 <a href="https://instagram.com/s_dani_hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_dani_hash" height="30" width="40" /></a>
-<a href="https://dribbble.com/daniyalhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="daniyalhash" height="30" width="40" /></a>
+<a href="https://dribbble.com/daniyalHash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="daniyalhash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
