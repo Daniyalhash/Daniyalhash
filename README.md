@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniyalhash&show_icons=true&locale=en" alt="daniyalhash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalhash&" alt="daniyalhash" /></p>
-[![An image of @syeddaniyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syeddaniyal)](https://holopin.io/@syeddaniyal)
+https://holopin.me/syeddaniyal)](https://holopin.io/@syeddaniyal
