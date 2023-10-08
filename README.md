@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/daniyal hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniyal hashmi" height="30" width="40" /></a>
 <a href="https://instagram.com/s_dani_hash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_dani_hash" height="30" width="40" /></a>
 <a href="https://twitter.com/Daniyal92289792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_dani_hash" height="30" width="40" /></a>
+<a href="https://www.pinterest.com/syeddaniyalhashmi123/_saved/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="s_dani_hash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
