@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyalhash" alt="daniyalhash" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/daniyal92289792" target="blank"><img src="https://img.shields.io/twitter/follow/daniyal92289792?logo=twitter&style=for-the-badge" alt="daniyal92289792" /></a> </p>
+<p align="center">
+  <img width="110" src="https://user-images.githubusercontent.com/6661165/91643641-28cd4780-ea70-11ea-94a9-a51885252700.png" />
+</p>
 
 - 🌱 I’m currently learning **react js**
 
